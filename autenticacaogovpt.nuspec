@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
-    <id>autenticacao_gov_pt</id>
+    <id>autenticacaogovpt</id>
     <version>3.11.0</version>
     <owners>Jorge Costa</owners>
     <title>autenticacao.gov.pt (Install)</title>
@@ -11,8 +11,20 @@
     <copyright>2010-2023</copyright>
     <docsUrl>https://amagovpt.github.io/docs.autenticacao.gov/</docsUrl>
     <tags>Identificação autenticação assinatura digital estado português</tags>
-    <summary>A aplicação Autenticação.gov para computador permite ao cidadão tirar partido das funcionalidades eletrónicas do seu Cartão de Cidadão</summary>
-    <description>A aplicação Autenticação.gov para computador permite ao cidadão tirar partido das funcionalidades eletrónicas do seu Cartão de Cidadão, como:
+    <summary>
+      The desktop application Autenticação.gov allows citizens to take advantage of the electronic features of their Citizen Card
+      A aplicação Autenticação.gov para computador permite ao cidadão tirar partido das funcionalidades eletrónicas do seu Cartão de Cidadão</summary>
+    <description>
+      The desktop application Autenticação.gov allows citizens to take advantage of the electronic features of their Citizen Card, such as:
+      -sign digital documents with Citizen Card or Digital Mobile Key
+      -Personalize the digital signature
+      - view the address and finalize the process of changing the address on the Citizen Card
+      - change the PIN codes of the Citizen Card
+      - check if the digital certificates of the Citizen Card are valid
+      - include notes or information that the citizen finds useful, such as contacts to be used in case of emergency, blood group, allergies, etc.
+      - view and print the personal data contained in the Citizen Card.
+
+      A aplicação Autenticação.gov para computador permite ao cidadão tirar partido das funcionalidades eletrónicas do seu Cartão de Cidadão, como:
       -assinar documentos digitais com Cartão de Cidadão ou Chave Móvel Digital
       -personalizar a assinatura digital
       -visualizar a morada e finalizar o processo de alteração de morada no Cartão de Cidadão
